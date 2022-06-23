@@ -2,13 +2,13 @@
 /* eslint-disable @next/next/no-img-element */
 /* eslint-disable jsx-a11y/alt-text */
 import Head from "next/head"
-import styles from '../styles/home.module.css'
+import styles from './styles/home.module.css'
 import Link from "next/link"
 import Header from "./components/headers"
 import Content from "./components/content"
 import useSWR from "swr"
 import Layout, { siteTitle } from "../components/Layout"
-import utilStyle from "../styles/utils.module.css"
+import utilStyle from "./styles/utils.module.css"
 import { getPostsData } from "../lib/post"
 //SSGの場合
 export async function getStaticProps() {　　　
