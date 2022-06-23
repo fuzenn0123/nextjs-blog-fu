@@ -35,3 +35,4 @@ Check out our [Next.js deployment documentation](https://nextjs.org/docs/deploym
 # nextjs-blog-fu
 # nextjs-blog-fufu
 # nextjs-blog-fufu
+# nextjs-blog-fu
